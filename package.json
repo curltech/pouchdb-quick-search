@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-quick-search-curltech",
-  "version": "1.3.0-1",
+  "version": "1.3.0",
   "description": "PouchDB Quick Search - persisted full-text search for PouchDB",
   "main": "lib/index.js",
   "repository": {
